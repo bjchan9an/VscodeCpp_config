@@ -1,0 +1,18 @@
+{
+    "name": "Win32",
+    "includePath": [
+        "${workspaceFolder}"
+    ],
+    "defines": [
+        "_DEBUG",
+        "UNICODE"
+    ],
+    "compilerPath": "C:\\MyWorkSpace\\Coding\\MinGW\\bin\\gcc.exe",
+    "browse": {
+        "path": [
+            "${workspaceFolder}"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+    }
+}
